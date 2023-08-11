@@ -1,4 +1,4 @@
 # Causality-notes
 
 ## Textbox check
-    - [ ] checkbox test
+    - [x] checkbox test
